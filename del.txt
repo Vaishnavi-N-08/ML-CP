@@ -1,0 +1,10 @@
+wheel
+streamlit
+plotly
+pycaret
+pandas
+streamlit_pandas_profiling
+mlxtend
+numba
+yellowbrick
+pandas_profiling
